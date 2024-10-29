@@ -39,7 +39,7 @@ Chat with PDFs is a Streamlit-based web application that allows users to upload 
 
    ```bash
    git clone https://github.com/sohamfcb/pdf-qa.git
-   cd chat-with-pdfs
+   cd pdf-qa
 
 2. **Create a virtual environment:**
 
