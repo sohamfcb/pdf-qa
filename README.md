@@ -38,7 +38,7 @@ Chat with PDFs is a Streamlit-based web application that allows users to upload 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/chat-with-pdfs.git
+   git clone https://github.com/sohamfcb/pdf-qa.git
    cd chat-with-pdfs
 
 2. **Create a virtual environment:**
